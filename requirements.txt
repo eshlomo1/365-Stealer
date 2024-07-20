@@ -3,7 +3,6 @@ hurry.filesize
 crayons
 adal
 flask
-argparse
 crayons
 flask
 threading
