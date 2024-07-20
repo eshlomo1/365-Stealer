@@ -3,3 +3,12 @@ hurry.filesize
 crayons
 adal
 flask
+argparse
+crayons
+flask
+threading
+os.path
+sqlite3
+adal
+logging
+time
